@@ -1,6 +1,6 @@
 # Pokemmo-auto-Feebas-Fishing
 
-## code/demo0.1/fish_circle.py
+## code/demo0.2/fish_circle.py
 #### dependence:
 win32api,win32con,win32gui<br />
 pygame<br />
@@ -9,12 +9,12 @@ pytesseract<br />
 difflib<br />
 
 #### usage1
-use function fish_circle to fish (Feebas,Carva,Sharpdo...)<br />
+use function do_fish to fish (Feebas,Carva,Sharpdo...)<br />
 if me meet shiny,stop and play music<br />
 if not,run and start next fishing<br />
 
 #### usage2
-use function find_fishpoint to find feebas' fish spot<br />
+use function find_fish to find feebas' fish spot<br />
 not finished yet
 
 
