@@ -1,5 +1,18 @@
+========================================================================
+
 # Pokemmo-auto-Feebas-Fishing
 
+========================================================================
+
+![132282618-0440b99c-af47-4e75-9c45-2253ba94f59d png](https://user-images.githubusercontent.com/26008298/137832888-5dd5fd5f-e5f7-44b3-9fde-58ce2ea84bdb.jpeg)
+
+========================================================================
+
+
+| author | mizukiyuta | <br />   
+| department | Tokyo Metropolitan University System Design |  <br />
+
+========================================================================
 ## code/demo0.2/fish_circle.py
 #### dependence:
 win32api,win32con,win32gui<br />
