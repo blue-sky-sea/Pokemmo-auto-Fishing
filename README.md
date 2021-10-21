@@ -28,7 +28,9 @@ if not,run and start next fishing<br />
 
 #### usage2
 use function find_fish to find feebas' fish spot<br />
-not finished yet
+not finished yet  
 
+## code/demo0.3/Monitor.py
+use opencv to monitor player,dialog,battle_pokemon...  
 
 ![图片](https://user-images.githubusercontent.com/26008298/137588401-f00a4105-f000-4835-92b6-b5173d323208.png)
